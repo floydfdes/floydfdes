@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=floydfdes&label=Profile%20views&color=0e75b6&style=flat" alt="floydfdes" /> </p>
 
-- 🔭 I’m currently working on [CRUD Application with React JS](https://postpred.netlify.app/)
+- 🔭 I’m currently working on [React Native Application]
 
 - 🌱 I’m currently learning **Express with Typescript, Machine learning and Artificial Intelligence.**
 
