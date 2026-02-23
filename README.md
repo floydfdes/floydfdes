@@ -12,11 +12,3 @@
 - Currently exploring cloud technologies and modern full-stack architectures.
 
 📫 Contact: floydprogrammer@gmail.com
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=floydfdes&show_icons=true&locale=en" alt="floydfdes" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=floydfdes&" alt="Streak" />
-</p>
